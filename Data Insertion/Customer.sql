@@ -20,7 +20,7 @@ INSERT INTO Customer VALUES
 ('Aakash','Jain','1990-05-27','aakash.jain@gmail.com','9>0Y3fLE2T','03460523205'),
 ('Ravi','Saxena','1990-08-10','ravi.saxena@gmail.com','<l0fp:H6j','03257240905'),
 ('Mohit','Tiwari','1996-03-04','mohit.tiwari@gmail.com','jgp@LW4IHbh','03332322470'),
-('Sachin','Tripathi','1993-06-02','sachin.tripathi@gmail.com','&;i4g9WjWSIg','03006592549');
+('Sachin','Tripathi','1993-06-02','sachin.tripathi@gmail.com','&;i4g9WjWSIg','03006592549'),
 ('Varun','Khanna','1995-04-12','varun.khanna@gmail.com','ZxP9@Lm2','03011223344'),
 ('Shubham','Pandey','1997-09-21','shubham.pandey@gmail.com','QwE#45rT','03122334455'),
 ('Karan','Singh','1994-01-30','karan.singh@gmail.com','AsD$78Fg','03233445566'),
@@ -40,7 +40,7 @@ INSERT INTO Customer VALUES
 ('Kartik','Ahuja','1995-06-02','kartik.ahuja@gmail.com','AsD$56Fg','03487889900'),
 ('Mayank','Goel','1997-08-17','mayank.goel@gmail.com','UiO*78Jh','03598990011'),
 ('Saurabh','Mittal','1994-03-09','saurabh.mittal@gmail.com','PlK@90Bn','03009001122'),
-('Rajat','Kohli','1992-11-26','rajat.kohli@gmail.com','MnB#12Vx','03110112233');
+('Rajat','Kohli','1992-11-26','rajat.kohli@gmail.com','MnB#12Vx','03110112233'),
 ('Aditya','Shukla','1995-01-12','aditya.shukla@gmail.com','P@ssw0rd01','03010000001'),
 ('Rohan','Malik','1996-02-18','rohan.malik@gmail.com','P@ssw0rd02','03010000002'),
 ('Vishal','Yadav','1994-03-25','vishal.yadav@gmail.com','P@ssw0rd03','03010000003'),
@@ -130,7 +130,7 @@ INSERT INTO Customer VALUES
 ('Jason','Noronha','1995-03-26','jason.noronha@gmail.com','P@ssw0rd87','03010000087'),
 ('Allan','Mascarenhas','1996-04-30','allan.mascarenhas@gmail.com','P@ssw0rd88','03010000088'),
 ('Nigel','Dsa','1994-05-04','nigel.dsa@gmail.com','P@ssw0rd89','03010000089'),
-('Ivan','Cardozo','1993-06-08','ivan.cardozo@gmail.com','P@ssw0rd90','03010000090');
+('Ivan','Cardozo','1993-06-08','ivan.cardozo@gmail.com','P@ssw0rd90','03010000090'),
 ('Aarav','Kulshreshtha','1995-01-05','aarav.kulshreshtha@gmail.com','Pwd@101','03020000001'),
 ('Ishan','Dwivedi','1996-02-09','ishan.dwivedi@gmail.com','Pwd@102','03020000002'),
 ('Kshitij','Mishra','1994-03-14','kshitij.mishra@gmail.com','Pwd@103','03020000003'),
@@ -200,7 +200,7 @@ INSERT INTO Customer VALUES
 ('Ravindra','Sen','1996-07-08','ravindra.sen@gmail.com','Pwd@167','03020000067'),
 ('Ghanshyam','Soni','1994-08-12','ghanshyam.soni@gmail.com','Pwd@168','03020000068'),
 ('Murlidhar','Swami','1993-09-16','murlidhar.swami@gmail.com','Pwd@169','03020000069'),
-('Dayaram','Jangra','1992-10-20','dayaram.jangra@gmail.com','Pwd@170','03020000070');
+('Dayaram','Jangra','1992-10-20','dayaram.jangra@gmail.com','Pwd@170','03020000070'),
 ('Arun','Kumar','1994-01-05','arun.kumar@gmail.com','Pwd@301','03030000001'),
 ('Suresh','Reddy','1993-02-09','suresh.reddy@gmail.com','Pwd@302','03030000002'),
 ('Venkatesh','Naidu','1992-03-14','venkatesh.naidu@gmail.com','Pwd@303','03030000003'),
@@ -270,7 +270,7 @@ INSERT INTO Customer VALUES
 ('Somashekar','Raju','1993-07-08','somashekar.raju@gmail.com','Pwd@367','03030000067'),
 ('Vijayan','P','1992-08-12','vijayan.p@gmail.com','Pwd@368','03030000068'),
 ('Kuppusamy','Govindan','1995-09-16','kuppusamy.govindan@gmail.com','Pwd@369','03030000069'),
-('Radhakrishnan','Menon','1996-10-20','radhakrishnan.menon@gmail.com','Pwd@370','03030000070');
+('Radhakrishnan','Menon','1996-10-20','radhakrishnan.menon@gmail.com','Pwd@370','03030000070'),
 ('Aarush','Bhargava','1994-01-07','aarush.bhargava@gmail.com','Pwd@401','03040000001'),
 ('Vivaan','Mahajan','1995-02-11','vivaan.mahajan@gmail.com','Pwd@402','03040000002'),
 ('Reyansh','Talwar','1996-03-15','reyansh.talwar@gmail.com','Pwd@403','03040000003'),
@@ -330,7 +330,7 @@ INSERT INTO Customer VALUES
 ('Nivetha','Ravichandran','1995-10-19','nivetha.ravichandran@gmail.com','Pwd@457','03040000057'),
 ('Surya','Manikandan','1996-11-23','surya.manikandan@gmail.com','Pwd@458','03040000058'),
 ('Deepan','Arunachalam','1993-12-27','deepan.arunachalam@gmail.com','Pwd@459','03040000059'),
-('Meenakshi','Kandasamy','1992-01-31','meenakshi.kandasamy@gmail.com','Pwd@460','03040000060');
+('Meenakshi','Kandasamy','1992-01-31','meenakshi.kandasamy@gmail.com','Pwd@460','03040000060'),
 ('Amitesh','Saxena','1994-01-03','amitesh.saxena@gmail.com','Pwd@501','03050000001'),
 ('Rishabh','Srivalli','1995-02-07','rishabh.srivalli@gmail.com','Pwd@502','03050000002'),
 ('Aniket','Karmarkar','1996-03-11','aniket.karmarkar@gmail.com','Pwd@503','03050000003'),
@@ -400,7 +400,7 @@ INSERT INTO Customer VALUES
 ('Rohitash','Jagtap','1995-07-24','rohitash.jagtap@gmail.com','Pwd@567','03050000067'),
 ('Yashwant','Khandekar','1996-08-28','yashwant.khandekar@gmail.com','Pwd@568','03050000068'),
 ('Kedar','Bhosale','1993-09-01','kedar.bhosale@gmail.com','Pwd@569','03050000069'),
-('Pandurang','Chougule','1992-10-05','pandurang.chougule@gmail.com','Pwd@570','03050000070');
+('Pandurang','Chougule','1992-10-05','pandurang.chougule@gmail.com','Pwd@570','03050000070'),
 ('Aditya','Rajvanshi','1994-01-06','aditya.rajvanshi@gmail.com','Pwd@601','03060000001'),
 ('Samar','Bhardwaj','1995-02-10','samar.bhardwaj@gmail.com','Pwd@602','03060000002'),
 ('Ishaan','Upadhyay','1996-03-14','ishaan.upadhyay@gmail.com','Pwd@603','03060000003'),
@@ -460,7 +460,7 @@ INSERT INTO Customer VALUES
 ('Lipun','Sahoo','1995-11-20','lipun.sahoo@gmail.com','Pwd@657','03060000057'),
 ('Pritam','Mallick','1996-12-24','pritam.mallick@gmail.com','Pwd@658','03060000058'),
 ('Sohini','Ghoshal','1993-01-28','sohini.ghoshal@gmail.com','Pwd@659','03060000059'),
-('Anirban','Majumdar','1992-02-01','anirban.majumdar@gmail.com','Pwd@660','03060000060');
+('Anirban','Majumdar','1992-02-01','anirban.majumdar@gmail.com','Pwd@660','03060000060'),
 ('Akhil','Raghuwanshi','1994-01-02','akhil.raghuwanshi@gmail.com','Pwd@701','03070000001'),
 ('Ravish','Tripuraneni','1995-02-06','ravish.tripuraneni@gmail.com','Pwd@702','03070000002'),
 ('Ishan','Bendre','1996-03-10','ishan.bendre@gmail.com','Pwd@703','03070000003'),
