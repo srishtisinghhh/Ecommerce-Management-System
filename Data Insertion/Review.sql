@@ -1,7 +1,5 @@
-﻿use OnlineShopping;
-
 Insert Into Review
-
+(Rating,Comment ,CustomerID ,OrderedProductID )
 Values
 
 ('4','Great Product Slow delivery. Such slow much wow','1','1'),
@@ -400,4 +398,4 @@ Values
 ('1','DISAPPOINTED!!!','394','394'),
 ('2','Not Good','395','395'),
 ('4','Great Product Slow delivery. Such slow much wow','396','396'),
-('3','Fair','397','397')
+('3','Fair','397','397');
