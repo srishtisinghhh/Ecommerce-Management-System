@@ -1,3 +1,3 @@
-USE OnlineShopping;
-
-INSERT INTO Country VALUES ('India');
+INSERT INTO Country (CountryName)
+VALUES
+('India');
