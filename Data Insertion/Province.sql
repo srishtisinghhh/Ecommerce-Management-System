@@ -1,7 +1,7 @@
-USE OnlineShopping;
-
-INSERT INTO Province VALUES ('Maharashtra');
-INSERT INTO Province VALUES ('Karnataka');
-INSERT INTO Province VALUES ('Tamil Nadu');
-INSERT INTO Province VALUES ('Uttar Pradesh');
-INSERT INTO Province VALUES ('West Bengal');
+INSERT INTO Province (ProvinceName)
+VALUES
+('Maharashtra'),
+('Karnataka'),
+('Tamil Nadu'),
+('Uttar Pradesh'),
+('West Bengal');
