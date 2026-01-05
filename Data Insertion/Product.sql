@@ -1,6 +1,6 @@
-USE OnlineShopping;
-
-INSERT INTO Product VALUES
+INSERT INTO Product
+(ProductName,CategoryID)
+VALUES
 ('Wireless Air Mouse Pro C125 for Smart TV','1'),
 ('Smart Air Mouse MX5 Backlit for Android TV','1'),
 ('Mini RF Touch Keyboard with RGB Backlight','1'),
@@ -140,3 +140,4 @@ INSERT INTO Product VALUES
 ('Remax 6 Port USB Charging Hub','10'),
 ('USB 3.0 Hub 7 Port with Switch','10'),
 ('ORICO USB 3.0 Hub 4 Port W60','10');
+
