@@ -1,8 +1,5 @@
-
-﻿use OnlineShopping;
-
 Insert Into OrderedProduct
-
+(VendorProductID ,OrderID ,Quantity )
 Values
 
 ('1','1','5'),
@@ -653,4 +650,4 @@ Values
 ('46','646','6'),
 ('47','647','5'),
 ('48','648','3'),
-('49','649','5')
+('49','649','5');
