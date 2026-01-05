@@ -1,70 +1,69 @@
-Use OnlineShopping;
-
-Insert Into ZipCode Values('1','1','1')
-Insert Into ZipCode Values('2','2','1')
-Insert Into ZipCode Values('3','2','1')
-Insert Into ZipCode Values('4','2','1')
-Insert Into ZipCode Values('5','2','1')
-Insert Into ZipCode Values('6','3','1')
-Insert Into ZipCode Values('7','2','1')
-Insert Into ZipCode Values('8','1','1')
-Insert Into ZipCode Values('9','4','1')
-Insert Into ZipCode Values('10','5','1')
-Insert Into ZipCode Values('11','2','1')
-Insert Into ZipCode Values('12','2','1')
-Insert Into ZipCode Values('13','2','1')
-Insert Into ZipCode Values('14','1','1')
-Insert Into ZipCode Values('15','2','1')
-Insert Into ZipCode Values('16','1','1')
-Insert Into ZipCode Values('17','2','1')
-Insert Into ZipCode Values('18','2','1')
-Insert Into ZipCode Values('19','2','1')
-Insert Into ZipCode Values('20','2','1')
-Insert Into ZipCode Values('21','2','1')
-Insert Into ZipCode Values('22','3','1')
-Insert Into ZipCode Values('23','2','1')
-Insert Into ZipCode Values('24','2','1')
-Insert Into ZipCode Values('25','2','1')
-Insert Into ZipCode Values('26','3','1')
-Insert Into ZipCode Values('27','1','1')
-Insert Into ZipCode Values('28','2','1')
-Insert Into ZipCode Values('29','1','1')
-Insert Into ZipCode Values('30','2','1')
-Insert Into ZipCode Values('31','2','1')
-Insert Into ZipCode Values('32','2','1')
-Insert Into ZipCode Values('33','2','1')
-Insert Into ZipCode Values('34','2','1')
-Insert Into ZipCode Values('35','2','1')
-Insert Into ZipCode Values('36','3','1')
-Insert Into ZipCode Values('37','1','1')
-Insert Into ZipCode Values('38','1','1')
-Insert Into ZipCode Values('39','2','1')
-Insert Into ZipCode Values('40','2','1')
-Insert Into ZipCode Values('41','2','1')
-Insert Into ZipCode Values('42','2','1')
-Insert Into ZipCode Values('43','3','1')
-Insert Into ZipCode Values('44','2','1')
-Insert Into ZipCode Values('45','2','1')
-Insert Into ZipCode Values('46','5','1')
-Insert Into ZipCode Values('47','2','1')
-Insert Into ZipCode Values('48','2','1')
-Insert Into ZipCode Values('49','2','1')
-Insert Into ZipCode Values('50','2','1')
-Insert Into ZipCode Values('51','2','1')
-Insert Into ZipCode Values('52','2','1')
-Insert Into ZipCode Values('53','2','1')
-Insert Into ZipCode Values('54','1','1')
-Insert Into ZipCode Values('55','1','1')
-Insert Into ZipCode Values('56','3','1')
-Insert Into ZipCode Values('57','2','1')
-Insert Into ZipCode Values('58','3','1')
-Insert Into ZipCode Values('59','1','1')
-Insert Into ZipCode Values('60','2','1')
-Insert Into ZipCode Values('61','2','1')
-Insert Into ZipCode Values('62','3','1')
-Insert Into ZipCode Values('63','3','1')
-Insert Into ZipCode Values('64','2','1')
-Insert Into ZipCode Values('65','2','1')
-Insert Into ZipCode Values('66','1','1')
-Insert Into ZipCode Values('67','2','1')
-Insert Into ZipCode Values('68','5','1')
+INSERT INTO ZipCode (CityID, ProvinceID, CountryID)
+VALUES
+('1','1','1'),
+('3','2','1'),
+('4','2','1'),
+('5','2','1'),
+('6','3','1'),
+('7','2','1'),
+('8','1','1'),
+('9','4','1'),
+('10','5','1'),
+('11','2','1'),
+('12','2','1'),
+('13','2','1'),
+('14','1','1'),
+('15','2','1'),
+('16','1','1'),
+('17','2','1'),
+('18','2','1'),
+('19','2','1'),
+('20','2','1'),
+('21','2','1'),
+('22','3','1'),
+('23','2','1'),
+('24','2','1'),
+('25','2','1'),
+('26','3','1'),
+('27','1','1'),
+('28','2','1'),
+('29','1','1'),
+('30','2','1'),
+('31','2','1'),
+('32','2','1'),
+('33','2','1'),
+('34','2','1'),
+('35','2','1'),
+('36','3','1'),
+('37','1','1'),
+('38','1','1'),
+('39','2','1'),
+('40','2','1'),
+('41','2','1'),
+('42','2','1'),
+('43','3','1'),
+('44','2','1'),
+('45','2','1'),
+('46','5','1'),
+('47','2','1'),
+('48','2','1'),
+('49','2','1'),
+('50','2','1'),
+('51','2','1'),
+('52','2','1'),
+('53','2','1'),
+('54','1','1'),
+('55','1','1'),
+('56','3','1'),
+('57','2','1'),
+('58','3','1'),
+('59','1','1'),
+('60','2','1'),
+('61','2','1'),
+('62','3','1'),
+('63','3','1'),
+('64','2','1'),
+('65','2','1'),
+('66','1','1'),
+('67','2','1'),
+('68','5','1');
