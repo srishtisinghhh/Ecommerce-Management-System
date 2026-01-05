@@ -1,77 +1,78 @@
-Use OnlineShopping;
+INSERT INTO City (CityName)
+VALUES
+('Mumbai'),
+('Pune'),
+('Nagpur'),
+('Nashik'),
+('Thane'),
+('Aurangabad'),
+('Solapur'),
+('Kolhapur'),
+('Satara'),
+('Amravati'),
+('Akola'),
+('Jalgaon'),
+('Ahmednagar'),
+('Latur'),
+('Nanded'),
+('Bengaluru'),
+('Mysuru'),
+('Mangaluru'),
+('Hubballi'),
+('Dharwad'),
+('Belagavi'),
+('Ballari'),
+('Davangere'),
+('Shivamogga'),
+('Tumakuru'),
+('Udupi'),
+('Hassan'),
+('Chitradurga'),
+('Bidar'),
+('Raichur'),
+('Chennai'),
+('Coimbatore'),
+('Madurai'),
+('Tiruchirappalli'),
+('Salem'),
+('Erode'),
+('Vellore'),
+('Thoothukudi'),
+('Tirunelveli'),
+('Dindigul'),
+('Thanjavur'),
+('Kanchipuram'),
+('Cuddalore'),
+('Karur'),
+('Namakkal'),
+('Lucknow'),
+('Kanpur'),
+('Varanasi'),
+('Agra'),
+('Prayagraj'),
+('Ghaziabad'),
+('Noida'),
+('Meerut'),
+('Aligarh'),
+('Bareilly'),
+('Moradabad'),
+('Saharanpur'),
+('Ayodhya'),
+('Mathura'),
+('Firozabad'),
+('Kolkata'),
+('Howrah'),
+('Durgapur'),
+('Asansol'),
+('Siliguri'),
+('Bardhaman'),
+('Malda'),
+('Kharagpur'),
+('Haldia'),
+('Krishnanagar'),
+('Baharampur'),
+('Jalpaiguri'),
+('Balurghat'),
+('Chandannagar'),
+('Raiganj');
 
-Insert Into City Values('Mumbai')
-Insert Into City Values('Pune')
-Insert Into City Values('Nagpur')
-Insert Into City Values('Nashik')
-Insert Into City Values('Thane')
-Insert Into City Values('Aurangabad')
-Insert Into City Values('Solapur')
-Insert Into City Values('Kolhapur')
-Insert Into City Values('Satara')
-Insert Into City Values('Amravati')
-Insert Into City Values('Akola')
-Insert Into City Values('Jalgaon')
-Insert Into City Values('Ahmednagar')
-Insert Into City Values('Latur')
-Insert Into City Values('Nanded')
-Insert Into City Values('Bengaluru')
-Insert Into City Values('Mysuru')
-Insert Into City Values('Mangaluru')
-Insert Into City Values('Hubballi')
-Insert Into City Values('Dharwad')
-Insert Into City Values('Belagavi')
-Insert Into City Values('Ballari')
-Insert Into City Values('Davangere')
-Insert Into City Values('Shivamogga')
-Insert Into City Values('Tumakuru')
-Insert Into City Values('Udupi')
-Insert Into City Values('Hassan')
-Insert Into City Values('Chitradurga')
-Insert Into City Values('Bidar')
-Insert Into City Values('Raichur')
-Insert Into City Values('Chennai')
-Insert Into City Values('Coimbatore')
-Insert Into City Values('Madurai')
-Insert Into City Values('Tiruchirappalli')
-Insert Into City Values('Salem')
-Insert Into City Values('Erode')
-Insert Into City Values('Vellore')
-Insert Into City Values('Thoothukudi')
-Insert Into City Values('Tirunelveli')
-Insert Into City Values('Dindigul')
-Insert Into City Values('Thanjavur')
-Insert Into City Values('Kanchipuram')
-Insert Into City Values('Cuddalore')
-Insert Into City Values('Karur')
-Insert Into City Values('Namakkal')
-Insert Into City Values('Lucknow')
-Insert Into City Values('Kanpur')
-Insert Into City Values('Varanasi')
-Insert Into City Values('Agra')
-Insert Into City Values('Prayagraj')
-Insert Into City Values('Ghaziabad')
-Insert Into City Values('Noida')
-Insert Into City Values('Meerut')
-Insert Into City Values('Aligarh')
-Insert Into City Values('Bareilly')
-Insert Into City Values('Moradabad')
-Insert Into City Values('Saharanpur')
-Insert Into City Values('Ayodhya')
-Insert Into City Values('Mathura')
-Insert Into City Values('Firozabad')
-Insert Into City Values('Kolkata')
-Insert Into City Values('Howrah')
-Insert Into City Values('Durgapur')
-Insert Into City Values('Asansol')
-Insert Into City Values('Siliguri')
-Insert Into City Values('Bardhaman')
-Insert Into City Values('Malda')
-Insert Into City Values('Kharagpur')
-Insert Into City Values('Haldia')
-Insert Into City Values('Krishnanagar')
-Insert Into City Values('Baharampur')
-Insert Into City Values('Jalpaiguri')
-Insert Into City Values('Balurghat')
-Insert Into City Values('Chandannagar')
-Insert Into City Values('Raiganj')
