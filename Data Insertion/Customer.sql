@@ -1,6 +1,6 @@
-USE OnlineShopping;
-
-INSERT INTO Customer VALUES
+INSERT INTO Customer 
+(FirstName, LastName, DOB, Email, Password, Contact)
+VALUES
 ('Amit','Sharma','1998-03-29','amit.sharma@gmail.com','92Eac13CiJz','03008564501'),
 ('Rahul','Verma','1994-07-23','rahul.verma@gmail.com','yEN[J(78','03007365250'),
 ('Rakesh','Gupta','1991-06-07','rakesh.gupta@gmail.com','hLL77dq1_*','03235536781'),
@@ -521,4 +521,3 @@ INSERT INTO Customer VALUES
 ('Indranil','Ghosh','1996-10-19','indranil.ghosh@gmail.com','Pwd@758','03070000058'),
 ('Ritika','Chatterji','1993-11-23','ritika.chatterji@gmail.com','Pwd@759','03070000059'),
 ('Sayan','Bhattacharjee','1992-12-27','sayan.bhattacharjee@gmail.com','Pwd@760','03070000060');
-
