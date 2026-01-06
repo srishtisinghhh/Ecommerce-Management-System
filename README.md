@@ -189,12 +189,14 @@ VALUES (1, '2011-01-27', 1, 318, '77425889862');
 INSERT INTO Review (Rating, Comment, CustomerID, OrderedProductID)
 VALUES (4, 'Great product but slow delivery', 1, 1);
 ```
+
+---
+
+
 ## 4️⃣ Queries
 
 This section contains SQL queries used to retrieve meaningful information from the E-Commerce Database.  
 All queries are written and executed using **PostgreSQL**.
-
----
 
 ### 4.1 Vendor-wise Product Categories
 
