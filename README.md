@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Database Management System (PostgreSQL)
 
 ## 📌 Overview
-This project is an **E-Commerce Database Management System** developed as part of a **Database Management Systems (DBMS)** course.  
+This project is an **E-Commerce Database Management System** 
 The database is implemented using **PostgreSQL** and demonstrates practical usage of **relational database concepts**, including normalization, joins, constraints, and analytical queries.
 
 The system manages data related to **customers, vendors, products, categories, orders, reviews, and delivery locations**.  
