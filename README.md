@@ -30,17 +30,8 @@ All data used in this project is **synthetic and created for academic purposes o
 ---
 
 ## 1️⃣ Project Description
-The **E-Commerce DBMS** is designed to store, process, and retrieve information related to online shopping activities.
-
-### Key Features:
-- Customer registration and address management  
-- Vendor and product management  
-- Product categorization  
-- Order processing  
-- Product reviews and ratings  
-
-Customers can browse categorized products, place orders, and submit reviews.  
-Vendors can list products and receive ratings based on customer feedback.
+The E-Commerce Database Management System (EC-DBMS) is designed to store, manage, and analyze data related to online shopping activities. It handles key components such as customers, vendors, products, categories, orders, reviews, and couriers.
+The system allows vendors to manage their products, while customers can browse items by category, place orders, and provide feedback. It supports online purchasing and order tracking without the need for physical store visits. This project demonstrates the practical use of relational database concepts and SQL queries in a real-world e-commerce environment.
 
 ---
 
@@ -248,7 +239,6 @@ FROM Customer;
 📊 Advanced SQL concepts (aggregations & window functions)  
 🛒 End-to-end order, product, vendor & customer flow  
 🐘 Fully implemented in **PostgreSQL**  
-🎓 Built as part of University DBMS curriculum  
 
 ---
 
