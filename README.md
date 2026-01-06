@@ -58,14 +58,11 @@ The ERD illustrates relationships between:
 - Address  
 - City, Province, Country  
 
-*(ERD diagram can be added here)*
+<img width="1490" height="926" alt="image" src="https://github.com/user-attachments/assets/2af0f629-d960-40c8-b658-fe482a9cc41e" />
+
 
 ---
 
-### 2.2 Relational Schema
-The relational schema maps the ERD entities into PostgreSQL tables using **primary keys** and **foreign keys** to ensure data integrity.
-
----
 
 ## 3️⃣ Database Implementation (PostgreSQL)
 
