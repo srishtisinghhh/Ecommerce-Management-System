@@ -50,6 +50,8 @@ The ERD illustrates relationships between:
 
 <img width="1490" height="926" alt="image" src="https://github.com/user-attachments/assets/2af0f629-d960-40c8-b658-fe482a9cc41e" />
 
+### 2.2 Relational Database Schema
+<img width="832" height="1248" alt="image" src="https://github.com/user-attachments/assets/1e9144dd-cf2e-4baf-99bb-4f1f680bc718" />
 
 ---
 
