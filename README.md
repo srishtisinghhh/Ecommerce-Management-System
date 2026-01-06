@@ -22,7 +22,6 @@ All data used in this project is **synthetic and created for academic purposes o
 - Project Description  
 - Database Design  
   - Entity Relationship Diagram (ERD)  
-  - Relational Schema  
 - Database Implementation  
   - Table Creation  
   - Data Insertion  
