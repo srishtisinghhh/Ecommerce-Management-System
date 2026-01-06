@@ -225,9 +225,9 @@ FROM Customer;
    ```sql
    \c OnlineShopping;
    ```
-5.Run table creation scripts from the Database & Table Creation folder.
-6.Run data insertion scripts from the Data Insertion folder.
-7.Execute queries from the Queries folder to analyze the data.
+5. Run table creation scripts from the Database & Table Creation folder.
+6. Run data insertion scripts from the Data Insertion folder.
+7. Execute queries from the Queries folder to analyze the data.
 
 ---
 
