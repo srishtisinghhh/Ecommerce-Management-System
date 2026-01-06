@@ -225,6 +225,45 @@ FROM Customer;
 
 ---
 
+## 🧩 Technologies Used
+
+- **Database:** PostgreSQL  
+- **Query Language:** SQL  
+- **Database Design:** ER Diagram & Relational Schema  
+- **Tools:** pgAdmin / psql  
+- **Platform:** Windows / Linux / macOS  
+
+---
+
+## 🚀 How to Run the Project
+
+1. Install **PostgreSQL** on your system.
+2. Open **pgAdmin** or terminal (`psql`).
+3. Create the database:
+   ```sql
+   CREATE DATABASE OnlineShopping;
+4. Connect to the database:
+   ```sql
+   \c OnlineShopping;
+   ```
+5.Run table creation scripts from the Database & Table Creation folder.
+6.Run data insertion scripts from the Data Insertion folder.
+7.Execute queries from the Queries folder to analyze the data.
+
+---
+
+🚀 **Project Highlights**
+
+✨ Real-world E-Commerce database design  
+🗂️ Properly normalized relational schema  
+🔗 Extensive use of JOINs and subqueries  
+📊 Advanced SQL concepts (aggregations & window functions)  
+🛒 End-to-end order, product, vendor & customer flow  
+🐘 Fully implemented in **PostgreSQL**  
+🎓 Built as part of University DBMS curriculum  
+
+---
+
 ## 📌 Author
 **Srishti Singh**  
 ---
