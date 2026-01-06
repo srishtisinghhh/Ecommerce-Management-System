@@ -11,8 +11,10 @@ All data used in this project is **synthetic and created for academic purposes o
 
 ## 🧰 Technologies Used
 - **Database:** PostgreSQL  
-- **Language:** SQL  
-- **Tool:** pgAdmin / psql  
+- **Query Language:** SQL  
+- **Database Design:** ER Diagram & Relational Schema  
+- **Tools:** pgAdmin / psql  
+- **Platform:** Windows / Linux / macOS  
 
 ---
 
@@ -222,16 +224,6 @@ SELECT
     AVG(DATE_PART('year', AGE(CURRENT_DATE, DOB))) AS "Average Age"
 FROM Customer;
 ```
-
----
-
-## 🧩 Technologies Used
-
-- **Database:** PostgreSQL  
-- **Query Language:** SQL  
-- **Database Design:** ER Diagram & Relational Schema  
-- **Tools:** pgAdmin / psql  
-- **Platform:** Windows / Linux / macOS  
 
 ---
 
