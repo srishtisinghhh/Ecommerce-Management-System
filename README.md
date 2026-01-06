@@ -252,7 +252,7 @@ FROM Customer;
 
 ---
 
-🚀 **Project Highlights**
+## 🚀 Project Highlights
 
 ✨ Real-world E-Commerce database design  
 🗂️ Properly normalized relational schema  
